@@ -43,7 +43,7 @@
 
 **Hình ảnh giao diện:**
 
-![DestinationCard](images/HomeScreen.png.png)
+![DestinationCard](images/DestinationCard.png)
 
 ### 2.3. Component CategoryList
 
@@ -62,7 +62,7 @@
 
 **Hình ảnh giao diện:**
 
-![CategoryList](images/HomeScreen.png.png)
+![CategoryList](images/CategoryList.png)
 
 ### 2.4. Component FavoriteCard
 
