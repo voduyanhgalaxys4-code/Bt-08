@@ -9,6 +9,7 @@
 ### 2.1. Component TravelHeader
 
 **Code:**
+
 ```jsx
 <Text style={styles.greeting}>
   XIN CHÀO, DUY ANH 👋
@@ -23,11 +24,12 @@
 
 **Hình ảnh giao diện:**
 
-![TravelHeader](images/TravelHeader.png)
+![TravelHeader](images/HomeScreen.png.png)
 
 ### 2.2. Component DestinationCard
 
 **Code:**
+
 ```jsx
 <Image
   source={{ uri: item.image }}
@@ -41,11 +43,12 @@
 
 **Hình ảnh giao diện:**
 
-![DestinationCard](images/DestinationCard.png)
+![DestinationCard](images/HomeScreen.png.png)
 
 ### 2.3. Component CategoryList
 
 **Code:**
+
 ```jsx
 {categories.map((item) => (
   <TouchableOpacity
@@ -59,11 +62,12 @@
 
 **Hình ảnh giao diện:**
 
-![CategoryList](images/CategoryList.png)
+![CategoryList](images/HomeScreen.png.png)
 
 ### 2.4. Component FavoriteCard
 
 **Code:**
+
 ```jsx
 <Text style={styles.name}>{item.name}</Text>
 
@@ -74,11 +78,12 @@
 
 **Hình ảnh giao diện:**
 
-![FavoriteCard](images/FavoriteCard.png)
+![FavoriteCard](images/FavoritesScreen.png.png)
 
 ### 2.5. Component ProfileInfo
 
 **Code:**
+
 ```jsx
 <Text style={styles.name}>Võ Duy Anh</Text>
 <Text style={styles.role}>
@@ -88,4 +93,4 @@
 
 **Hình ảnh giao diện:**
 
-![ProfileInfo](images/ProfileInfo.png)
+![ProfileInfo](images/ProfileScreen.png.png)
